@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Reloco.Api/Reloco.Api.csproj" />
+    <Project Path="src/Reloco.Domain/Reloco.Domain.csproj" />
+  </Folder>
+</Solution>
