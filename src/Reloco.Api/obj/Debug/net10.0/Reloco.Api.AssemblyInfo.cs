@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reloco.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9df6a5009aa3d8a0d2f25ce048ae08e3752e4bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+014c904b18f53c7bce8c318fe5b38b5be76dd9b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reloco.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reloco.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
